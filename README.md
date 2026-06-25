@@ -23,11 +23,14 @@ If you press Sleep the pets Energy will go up.
 2. Purchase the parts from the BOM or select alternatives. (Screws must be exact identicals in dimensions)
 3. Order the PCB from JLCPCB (or your prefferred vendor) using the gerber file attached
 4. Print the case enclosure that houses the PCB and components
-5. Attach, assemble, and solder the parts to the PCB as it looks according to the Onshape CAD
+5. Cut velcro tape to reasonable sizes and attach one half to the Battery enclosure in the bottom case and the other half to the battery.
+6. Attach, assemble, and solder the parts to the PCB as it looks according to the Onshape CAD
    - Be sure to check your battery connection after soldering
-6. Insert heat inserts into their respective mounting holes, place PCB, then screw in the screws
-7. Repeat step 6 for the case
-8. Assembly complete. YAYYY
+   - Solder the battery cell into the bottom side of the PCB rather than the top
+   - The JST PH connector's wire will need to be shortened significantly to fit in the bottom case or wrapped neatly. Solder the connector into the battery cell.
+7. Insert heat inserts into their respective mounting holes, place PCB, then screw in the screws
+8. Repeat step 6 for the case
+9. Assembly complete. YAYYY
 
 ## Why I made it
 I made Photophage because I wanted to try something challenging. This was my 1st time building a whole project from scratch and I wanted to add some special features like the light sensor and the mood light. I chose to make it a virtual pet that feeds on light because I think it is a fun and interesting idea. I used this project to learn about all the parts of building an electronics project from designing the circuit board to writing the code and making the case. This serves as my first submission to the program Fallout, created by HackClub, an organization that promotes and encourages teens to become engineers/programmers.
